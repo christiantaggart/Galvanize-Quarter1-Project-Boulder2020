@@ -2,9 +2,9 @@
 ###### By: _Christian Taggart_
 ![](https://github.com/christiantaggart/q1proj/blob/master/img/Screen%20Shot%202017-07-13%20at%2010.40.46%20AM.png?raw=true)
 
-### A Virtual Reality tour of Galvanizes Walnut Campus in Boulder, CO
+#### A Virtual Reality tour of Galvanizes Walnut Campus in Boulder, CO
 
-**BOULDER 2020**
+- _CLICK TO PLAY_ : [**BOULDER 2020**](http://aws-website-galvanizevrtour-g3zz7.s3-website-us-east-1.amazonaws.com/)
 
 ---
 
