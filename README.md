@@ -1,6 +1,6 @@
 # Galvanize Q1 Project
 ###### By: _Christian Taggart_
-![](githubimage)
+![](https://github.com/christiantaggart/q1proj/blob/master/img/Screen%20Shot%202017-07-13%20at%2010.40.46%20AM.png?raw=true)
 
 ### A Virtual Reality tour of Galvanizes Walnut Campus in Boulder, CO
 
