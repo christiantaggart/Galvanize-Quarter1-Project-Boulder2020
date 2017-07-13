@@ -13,3 +13,13 @@
   - I created all the elements of the scene aside from the Backroung video in MagicaVoxel.
 
 Mozillas A-Frame was a pleasure to work with. Their on line Dev tools and Docs were very easy to understand and use.
+
+
+## Controls:
+
+- W = Forward
+- A = Strafe Left
+- S =  Backward
+- D = Strafe Right
+- SpaceBar =  Jump
+- X = Return to ground
